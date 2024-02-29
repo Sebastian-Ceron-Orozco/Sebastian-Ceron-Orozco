@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Estudainte de 4 semestre.
+Me gusta jugar videojuegos
 <!--
 **Sebastian-Ceron-Orozco/Sebastian-Ceron-Orozco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
